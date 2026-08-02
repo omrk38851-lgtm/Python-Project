@@ -79,4 +79,5 @@ The Research & Development and Sales departments showed the highest employee att
 ---
 
 Omar Khaled
+
 Aspiring Data Analyst | SQL | Python | Power BI | Excel
