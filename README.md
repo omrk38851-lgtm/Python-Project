@@ -78,6 +78,5 @@ The Research & Development and Sales departments showed the highest employee att
 ## 👨‍💻 Author
 ---
 
-Mahmoud Gomaa
-
+Omar Khaled
 Aspiring Data Analyst | SQL | Python | Power BI | Excel
